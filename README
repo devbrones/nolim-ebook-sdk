@@ -28,3 +28,6 @@ Some interesting links:
 	- http://blog.soutade.fr/post/2015/03/game_over.html (Post about how to hack those ebooks and enable an SSH server)
 
 Happy hacking!
+
+FORK, 
+This is a fork of aaronhrndz's fork of the epd-sdk, this will be heavilu utilised in the developement of my custom linux distro ABERLinux https://www.github.com/devbrones/ABERLinux
